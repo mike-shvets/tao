@@ -10,7 +10,7 @@
   [MOTChallenge website](https://motchallenge.net/results/ECCV_2020_TAO_Challenge/)!
   See [here](docs/challenge.md) for more details.
 - \[2020.07.02\]: TAO was accepted to ECCV '20 as a spotlight presentation!
-- \[2020.02.20\]: We will be hosting a workshop and challenge at ECCV'20. See [here](taodataset.org/workshop/) for details.
+- \[2020.02.20\]: We will be hosting a workshop and challenge at ECCV'20. See [here](http://taodataset.org/workshop/) for details.
 
 ## Setup
 
@@ -39,3 +39,7 @@ See [evaluation information](./docs/evaluation.md). Contains information on subm
 ## Run baseline trackers
 
 See [tracker instructions](./docs/trackers.md).
+
+## FAQs
+
+See [FAQs](./docs/faqs.md).
