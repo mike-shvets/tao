@@ -24,9 +24,6 @@ def main():
         description=__doc__.split('\n')[0] if __doc__ else '',
         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('tao_root', type=Path)
-    parser.add_argument('--split',
-                        required=True,
-                        choices=['train', 'val', 'test'])
 
     args = parser.parse_args()
 

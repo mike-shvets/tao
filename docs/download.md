@@ -44,13 +44,13 @@ LaSOT, and YFCC-100M.
 1. Download annotations:
 
     ```bash
-    python scripts/download/download_annotations.py $TAO_DIR --split train
+    python scripts/download/download_annotations.py $TAO_DIR
     ```
 
 1. Verify that the dataset was downloaded correctly:
 
     ```bash
-    python scripts/download/verify.py $TAO_ROOT --split train
+    python scripts/download/verify.py $TAO_DIR --split train
     ```
 ## Request video deletion
 
